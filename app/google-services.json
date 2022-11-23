@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "607268211907",
+    "firebase_url": "https://goodhouse-a0d2b-default-rtdb.firebaseio.com",
+    "project_id": "goodhouse-a0d2b",
+    "storage_bucket": "goodhouse-a0d2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607268211907:android:bd9cff4a2b62ea4eb46676",
+        "android_client_info": {
+          "package_name": "com.example.goodhouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607268211907-jqscio8otoabu79emf4ffbs15qqhjo2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsLiEtUo4SWhFoYMFdIR-euOZnCWsSEWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607268211907-jqscio8otoabu79emf4ffbs15qqhjo2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
